@@ -1,25 +1,21 @@
-# Project 3: Around The U.S.
+# Around the U.S.
 
-### Overview  
+## Project Description
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)  
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+"Around the U.S." is a responsive web page designed to provide an engaging and informative overview of various locations across the United States. The page adapts seamlessly to different screen sizes, ensuring a user-friendly experience whether viewed on a desktop, tablet, or mobile device. The primary focus is to showcase how responsive design techniques can create a fluid and visually appealing interface.
 
-Recorded-video
+## Functionality
+
+- **Responsive Layout:** The page adjusts its layout according to the device's screen size, making it accessible and user-friendly across various devices.
+- **Grid Templates:** Utilizes CSS Grid to organize content into a flexible and structured layout. This helps in aligning content and images neatly on the page.
+- **Media Queries:** Implements media queries to apply different styling rules for different screen sizes, ensuring the page remains readable and visually appealing on all devices.
+
+## Technologies Used
+
+- **HTML5:** Provides the structural foundation for the web page.
+- **CSS3:** Handles the styling of the page, including the implementation of grid templates and media queries.
+- **CSS Grid:** Used to create a responsive grid layout that adapts to different screen sizes.
+- **Media Queries:** Applied to adjust styling based on the device's viewport width, improving the overall responsiveness and usability of the website
+
+## Recorded-video
 https://drive.google.com/file/d/1teHA-yI_1cb7ne2XUEQlA6oRlmz0rvOG/view?usp=drive_link
- 
