@@ -10,27 +10,6 @@
 
 
 
-@media screen and (max-width: 620px) {
-  .profile {
-    flex-direction: column;
-    
-  }
 
-  .profile__info {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    width: 100%;
-  }
 
-  .profile__description {
-    width: 100%;
-    text-align: center;
-  }
 
-  .profile__add-button {
-    margin: 0;
-    max-width: 100%;
-  }
-
-}
