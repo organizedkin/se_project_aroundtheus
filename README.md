@@ -19,3 +19,6 @@
 
 ## Recorded-video
 https://drive.google.com/file/d/1teHA-yI_1cb7ne2XUEQlA6oRlmz0rvOG/view?usp=drive_link
+
+## git-hub-link
+https://github.com/organizedkin/se_project_aroundtheus/settings/pages#:~:text=https%3A//organizedkin.github.io/se_project_aroundtheus/
