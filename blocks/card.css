@@ -17,6 +17,9 @@
   font-weight: 900;
   font-size: 24px;
   line-height: 29px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 .card__description {
   display: flex;
@@ -28,9 +31,6 @@
   padding-right: 20px;
   align-items: center;
   justify-content: space-between;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  overflow: hidden;
 }
 
 .card__like-button {
@@ -39,8 +39,9 @@
   height: 18px;
   border-style: none;
   cursor: pointer;
+  object-fit: contain;
 }
 
-.card__like-button:hover{
+.card__like-button:hover {
   opacity: 50%;
 }
